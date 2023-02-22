@@ -1,0 +1,8 @@
+.na {
+    font-size: 100px;
+    transition: 0.5s;
+
+    &.on {
+        font-size: 200px;
+    }
+}
